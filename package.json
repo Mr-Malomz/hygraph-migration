@@ -1,0 +1,19 @@
+{
+  "name": "hygraph-migration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hygraph/management-sdk": "^1.2.4",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.4.5",
+    "graphql-request": "^6.1.0"
+  }
+}
