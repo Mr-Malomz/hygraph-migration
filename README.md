@@ -1,4 +1,4 @@
-This sample repository shows how to move exported content from Magento to [Hygraph](https://hygraph.com).
+This sample repository shows how to move exported content from WordPress to [Hygraph](https://hygraph.com).
 
 Useful resources:
 
